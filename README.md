@@ -20,3 +20,7 @@ Tanto maquina de estados como Arboles, no tienen un "que es mejor". Ya que los d
 
 ### FSM:
 <img width="1712" height="398" alt="image" src="https://github.com/user-attachments/assets/5a9288e0-5bd7-430e-93b6-7c801f3ef854" />
+
+### Arbol de desicion:
+<img width="815" height="1002" alt="image" src="https://github.com/user-attachments/assets/519dc288-7b9e-4c4c-b78d-eb98f6acd7b5" />
+
